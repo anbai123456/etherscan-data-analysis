@@ -15,7 +15,8 @@
 ---
 
 ## 🔧 使用方式
-1.进入etherscan官网，找到API看板，新建API
+1.进入etherscan官网(https://etherscan.io/)
+找到API看板，新建API
 https://github.com/anbai123456/etherscan-data-analysis/blob/main/etherscan-analysis%20-1.png
 
 2.替换etherscan-analysis.py文件中的API key部分即可
